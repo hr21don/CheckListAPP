@@ -36,8 +36,7 @@ E.g. usage will be similar to home list as shown in the figure below.
 * Open up a terminal/cmd and change to the directory with app.js in it
 * Run app.js locally using nodemon app.js to start the server on localhost:3000.
 
-## Resources 
-
+## Useful Resources 
 
 * https://ejs.co/
 * https://nodejs.org/en/download/
