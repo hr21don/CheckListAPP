@@ -33,9 +33,14 @@ E.g. usage will be similar to home list as shown in the figure below.
 
 ## How to run? || Download the zip file to downloads and extract it.
 
-Open up a terminal/cmd and change to the directory with app.js in it
-Run app.js locally using nodemon app.js to start the server on localhost:3000.
+* Open up a terminal/cmd and change to the directory with app.js in it
+* Run app.js locally using nodemon app.js to start the server on localhost:3000.
 
 ## Resources 
 
+
+https://ejs.co/
+https://nodejs.org/en/download/
+https://www.npmjs.com/package/nodemon 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
