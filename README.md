@@ -2,7 +2,7 @@
 Create clear, multi-functional to-do lists for free with CheckList! 
 
 ## Input 
-Start by supplying data to your homelist within the provided field 'New Item' shown in the figure below!
+Start by supplying data to your homelist (home route) within the provided field 'New Item' shown in the figure below!
 
 E.g. Input => Type 'Buy Food' into the Text field and click the button to apply the changes.
 
@@ -25,7 +25,7 @@ The example usage would follow something like this....
 
 ## Additional Lists to Access
 
-Access the work list using following syntax 'localhost:3000/work'.
+Access the work list route using following syntax '/work'.
 
 E.g. usage will be similar to home list as shown in the figure below.
 
