@@ -22,3 +22,12 @@ Click the checkbox to remove the item from your home list.
 The example usage would follow something like this....
 
 <img width="319" alt="Capture" src="https://user-images.githubusercontent.com/91548582/139589785-362bace6-63ff-4ae5-9e5b-c2efbbc709be.PNG">
+
+## Additional Lists to Access
+
+Access the work list using following syntax 'localhost:3000/work'.
+
+E.g. usage will be similar to home list as shown in the figure below.
+
+<img width="335" alt="Capture" src="https://user-images.githubusercontent.com/91548582/139590032-06598c1c-65e0-4189-827d-095768dfcc67.PNG">
+
