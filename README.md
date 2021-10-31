@@ -31,3 +31,11 @@ E.g. usage will be similar to home list as shown in the figure below.
 
 <img width="335" alt="Capture" src="https://user-images.githubusercontent.com/91548582/139590032-06598c1c-65e0-4189-827d-095768dfcc67.PNG">
 
+## How to run? || Download the zip file to downloads and extract it.
+
+Open up a terminal/cmd and change to the directory with app.js in it
+Run app.js locally using nodemon app.js to start the server on localhost:3000.
+
+## Resources 
+
+
