@@ -9,7 +9,16 @@ E.g. Input => Type 'Buy Food' into the Text field and click the button to apply 
 <img width="333" alt="Capture" src="https://user-images.githubusercontent.com/91548582/139589466-712b661c-56d6-4d72-83ae-e735b0632cdd.PNG">
 
 ## Output
-The example output for your home list would look like this. Sounds simple right? 
+The example output for your home list would look like....
 
 <img width="346" alt="Capture" src="https://user-images.githubusercontent.com/91548582/139589557-b7488b28-7226-4b5e-b54c-81ca3efa6dc9.PNG">
 
+Sounds simple right? 
+
+## How to remove?
+
+Click the checkbox to remove the item from your home list. 
+
+The example usage would follow something like this....
+
+<img width="319" alt="Capture" src="https://user-images.githubusercontent.com/91548582/139589785-362bace6-63ff-4ae5-9e5b-c2efbbc709be.PNG">
