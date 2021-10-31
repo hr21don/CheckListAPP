@@ -39,8 +39,8 @@ E.g. usage will be similar to home list as shown in the figure below.
 ## Resources 
 
 
-https://ejs.co/
-https://nodejs.org/en/download/
-https://www.npmjs.com/package/nodemon 
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+* https://ejs.co/
+* https://nodejs.org/en/download/
+* https://www.npmjs.com/package/nodemon 
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
