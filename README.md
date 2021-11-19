@@ -25,7 +25,7 @@ The example usage would follow something like this....
 
 ## Additional Lists to Access
 
-Access the work list route using following syntax '/work'.
+Access the work list route using following syntax 'http://localhost:3000/work'.
 
 E.g. usage will be similar to home list as shown in the figure below.
 
